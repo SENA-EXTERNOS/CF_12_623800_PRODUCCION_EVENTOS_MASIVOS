@@ -65,23 +65,23 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-    p(data-aos="fade-down").mb-5 Para ver algunos ejemplos, te invitamos a descargar y revisar el 
-      span.pur Anexo 1_ Ejemplos contratos.  
-    .row.justify-content-center.align-items-center         
-      .col-lg-10
-        .tarjeta.color-acento-botones.p-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/54.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 1
-                  p.mb-0 Ejemplos contratos 
-                .col-sm-auto
-                  a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Ejemplos_contratos.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download                                      
+    //- p(data-aos="fade-down").mb-5 Para ver algunos ejemplos, te invitamos a descargar y revisar el 
+    //-   span.pur Anexo 1_ Ejemplos contratos.  
+    //- .row.justify-content-center.align-items-center         
+    //-   .col-lg-10
+    //-     .tarjeta.color-acento-botones.p-3
+    //-       .row.justify-content-around.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/temas/54.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               h3.mb-1 Anexo 1
+    //-               p.mb-0 Ejemplos contratos 
+    //-             .col-sm-auto
+    //-               a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Ejemplos_contratos.pdf')" target="_blank")
+    //-                 span Descargar
+    //-                 i.fas.fa-file-download                                      
 </template>
 
 <script>

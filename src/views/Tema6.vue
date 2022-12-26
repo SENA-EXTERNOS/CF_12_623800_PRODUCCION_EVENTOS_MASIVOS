@@ -24,7 +24,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/62.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El acuerdo de nivel de servicio debe incluir no solo una descripción de los servicios que se van a prestar y los niveles esperados, sino también cómo se medirán los servicios, los deberes y responsabilidades de cada parte, las soluciones o sanciones por incumplimiento y un protocolo para añadir y eliminar mediciones.
+        p.mb-0 El acuerdo de nivel de servicio debe incluir no solo una descripción de los servicios que se van a prestar y los niveles esperados, sino también cómo se medirán los servicios, los deberes y responsabilidades de cada parte, las soluciones o sanciones por incumplimiento y un protocolo para añadir y eliminar mediciones. 
           | Las mediciones deben diseñarse de manera que no se recompense el mal comportamiento de ninguna de las partes. Por ejemplo, si se incumple un nivel de servicio porque el cliente no ha facilitado la información a tiempo, el proveedor no debe ser penalizado.   
 
     p(data-aos="fade-down").mb-5 Los componentes clave de un acuerdo de nivel de servicio son dos:   
@@ -52,7 +52,7 @@
           p La cantidad de tiempo que el servicio está disponible para su uso. Se puede medir por franja horaria, por ejemplo: se requiere un 99,5 % de disponibilidad entre las 8 de la mañana y las 6 de la tarde, y se especifica una mayor o menor disponibilidad durante otras horas. Las operaciones de comercio electrónico suelen tener acuerdos para niveles de servicio extremadamente altos en todo momento; un 99,999 % del tiempo de actividad es un requisito frecuente para un sitio que produce millones de pesos por hora. 
         .col-lg-4.my-3
           img.img-a.img-t(src='@/assets/curso/temas/65.png', alt='')
-      .row.justify-content-center.align-items-start(titulo="Índice de efectos")
+      .row.justify-content-center.align-items-start(titulo="Índice defectos")
         .col-lg-7.my-3
           p Recuentos o porcentajes de errores en los principales entregables. Los fallos de producción, como las copias de seguridad y las restauraciones incompletas, los errores de codificación/revisión y el incumplimiento de los plazos pueden incluirse en esta categoría. 
         .col-lg-4.my-3

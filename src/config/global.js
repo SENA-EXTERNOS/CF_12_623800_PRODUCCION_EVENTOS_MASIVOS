@@ -122,7 +122,7 @@ export default {
       referencia: 'Selección de proveedores (s. f.).',
       tipo: 'Artículo',
       link:
-        'https://webquery.ujmd.edu.sv/siab/bvirtual/Fulltext/ADPS0000636/C3.pdf.',
+        'https://webquery.ujmd.edu.sv/siab/bvirtual/Fulltext/ADPS0000636/C3.pdf',
     },
     {
       tema: 'Negociación y acuerdos comerciales',

@@ -11,8 +11,6 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.png', alt='')     
       .col-lg-7.my-3 
         p(data-aos="fade-down") La gestión de la calidad es el acto de supervisar todas las actividades y tareas que deben realizarse para mantener el nivel de excelencia deseado. Esto incluye determinar una política de calidad, crear y planificar acciones para garantizarla, y controlar y mejorar la calidad.
-        .bg5.p-4
-          p(data-aos="fade-down").mb-0 La gestión de la calidad exige que todas las partes interesadas de una empresa colaboren para mejorar los procesos, los productos, los servicios y la cultura de la propia empresa. 
 
     p(data-aos="fade-down").mb-5 Veamos algunos temas importantes que se deben saber con respecto a este tema.  
 
@@ -73,23 +71,8 @@
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 De acuerdo con lo anterior, es posible afirmar que la norma ISO 9001 mira los pros y contras en el personal, la esencia de la organización, y promueve su formación, colaboración y liderazgo en todos los niveles, los motiva y permite que sus capacidades sean utilizadas para el beneficio de la organización. Además, estipula unos principios de gestión de la calidad que, cuando las empresas certificadas los cumplen, garantizan a los clientes que estas han establecido un sistema de gestión de la calidad adecuado, y también significa que sus productos y servicios son de calidad internacional; alineados con diferentes empresas de países de todo el mundo. 
 
-    p(data-aos="fade-down").mb-5 Para conocer la norma con mayor detalle puedes descargar el Material complementario.
-
-    .row.justify-content-center.align-items-center         
-      .col-lg-10
-        .tarjeta.color-acento-botones.p-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/54.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 1
-                  p.mb-0 Ejemplos contratos 
-                .col-sm-auto
-                  a.boton.color-primario.texto-blanco(href="https://www.normas-iso.com/iso-9001/" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download                   
+    p(data-aos="fade-down").mb-5 Para conocer la norma con mayor detalle puedes descargar el Material complementario1_ Norma ISO 9001_2015
+              
 </template>
 
 <script>

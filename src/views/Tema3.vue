@@ -96,7 +96,7 @@
       SlyderA(tipo="b")
         .row.justify-content-evenly.align-items-start.p-3
           .col-lg-4.mb-4.mb-md-0
-            p La gestión de las relaciones con los proveedores (SRM, siglas en inglés de Supplier Relationship Management), es el enfoque sistemático para evaluar a los proveedores que suministran bienes, materiales y servicios a una organización, determinar la contribución de cada uno de ellos al éxito, y desarrollar estrategias para mejorar su rendimiento. 
+            p La gestión de las relaciones con los proveedores (SRM, siglas en inglés de <i>Supplier Relationship Management</i>), es el enfoque sistemático para evaluar a los proveedores que suministran bienes, materiales y servicios a una organización, determinar la contribución de cada uno de ellos al éxito, y desarrollar estrategias para mejorar su rendimiento. 
           .col-lg-5
             img.img-a.img-t(src='@/assets/curso/temas/33.png', alt='')     
         .row.justify-content-evenly.align-items-start.p-3
@@ -173,22 +173,22 @@
     p(data-aos="fade-down").mb-5 A continuación, se presentan las medidas más útiles para definir la satisfacción del cliente de una empresa.
 
     TabsA.color-acento-botones.my-5(data-aos="fade-left")  
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Puntuación del promotor neto")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Puntuación del <br>promotor neto")
         .row.justify-content-center.align-items-start
           .col-lg-4.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/15.png', alt='')
+            img.img-a.img-t(src='@/assets/curso/temas/15_1.png', alt='')
           .col-lg-8.my-3
             p Mide la fidelidad y es el método de pensamiento más reciente cuando se trata de medir la satisfacción. Tiene una escala de 1 a 10, siendo el 100 positivo la mejor puntuación posible. Los datos se recogen con una encuesta específica, con la pregunta, “¿Qué probabilidad hay de que recomiende nuestra empresa?”. Se pide una respuesta a esta pregunta entre 0 (nada probable) y 10 (extremadamente probable).  
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Puntuación de la satisfacción")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Puntuación de <br>la satisfacción")
         .row.justify-content-center.align-items-start
           .col-lg-4.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/15.png', alt='')
+            img.img-a.img-t(src='@/assets/curso/temas/15_2.png', alt='')
           .col-lg-8.my-3
             p Es una de las más utilizadas. Los datos se recopilan mediante una pregunta específica en una encuesta de opinión, por ejemplo: “¿Qué grado de satisfacción tiene con su experiencia?”. Los encuestados suelen responder a esta pregunta en una escala del 1 al 5. 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Satisfacción del servicio")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Satisfacción del<br> servicio")
         .row.justify-content-center.align-items-start
           .col-lg-4.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/15.png', alt='')
+            img.img-a.img-t(src='@/assets/curso/temas/15_3.png', alt='')
           .col-lg-8.my-3
             p Mide el grado de satisfacción de los clientes con la asistencia prestada por el equipo de atención al proveedor. Se pueden recopilar estos datos a través de una encuesta de opinión, o más típicamente a través de un mensaje automatizado enviado directamente a un representante.
 
@@ -196,7 +196,7 @@
 
             .row.justify-content-evenly.align-items-center
               .col.mb-3.mb-sm-0
-                p #[b Anexo 2] - Encuesta de satisfacción 
+                p #[b Anexo] - Encuesta de satisfacción 
               .col-sm-auto
                 a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Anexo_2_Encuesta_de_satisfaccion.pdf')" target="_blank")
                   span Descargar

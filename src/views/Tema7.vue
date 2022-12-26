@@ -43,7 +43,7 @@
             .col-auto
               .imagen-absolute2
                 img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/71.svg', alt='')
-   
+    p(data-aos="fade-down").mb-5 La Figura 9 muestra algunos buenos indicadores para analizar.  
     .titulo-sexto.color-primario.mb-3(data-aos="fade-right")
       h5 Figura 9
       span Indicadores para analizar
