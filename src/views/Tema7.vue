@@ -10,16 +10,16 @@
     ul.lista-ul.ps-3(data-aos="fade-down")
       li 
         i.fas.fa-angle-right
-        p.mb-0 Acciones correctivas del proveedor
+        p.mb-0 Acciones correctivas del proveedor.
       li 
         i.fas.fa-angle-right
-        p.mb-0 Devoluciones
+        p.mb-0 Devoluciones.
       li 
         i.fas.fa-angle-right
-        p.mb-0 Entrega a tiempo
+        p.mb-0 Entrega a tiempo.
       li 
         i.fas.fa-angle-right
-        p.mb-0 Reclamación del cliente, relacionada con el proveedor
+        p.mb-0 Reclamación del cliente, relacionada con el proveedor.
 
     p(data-aos="fade-down").mb-5 Los proveedores del nivel 2 se revaluarán una vez al año en función de las acciones correctivas del proveedor, mientras que los de nivel 3 se revaluarán cada dos años en función de las devoluciones. 
 
@@ -27,7 +27,7 @@
       .col-lg-6.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/70.png', alt='')      
       .col-lg-6.my-3 
-        p(data-aos="fade-down") Aunque los criterios mencionados en el ejemplo anterior no son una encuesta, la mayoría de las organizaciones desarrollarán una que, de nuevo, puede combinar varios criterios y medir al proveedor en diferentes dimensiones. Sin embargo, una encuesta no es la única forma de evaluar a los proveedores y, en muchos casos, ni siquiera es la óptima. La información obtenida en la revaluación podría muy bien ayudarle con la necesidad de analizar los datos.
+        p(data-aos="fade-down") Aunque los criterios mencionados en el ejemplo anterior no son una encuesta, la mayoría de las organizaciones desarrollarán una que, de nuevo, puede combinar varios criterios y medir al proveedor en diferentes dimensiones. Sin embargo, una encuesta no es la única forma de evaluar a los proveedores y, en muchos casos, ni siquiera es la óptima. La información obtenida en la revaluación podría muy bien ayudarle con la necesidad de analizar los datos del proveedor.
 
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Así que, tanto si separa al proveedor como si no, se deben decidir los criterios de evaluación. Si una empresa no tiene muchos proveedores, quizá baste con la misma evaluación para todos ellos. La idea es que esta se beneficie de la revaluación de proveedores, de modo que pueda controlar su rendimiento y decidir cuándo elogiarlos y cuándo emitir una bandera roja. Al final, un mal proveedor proporcionará productos y servicios mediocres y, en última instancia, causará problemas con los clientes.
@@ -43,24 +43,25 @@
             .col-auto
               .imagen-absolute2
                 img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/71.svg', alt='')
-    p(data-aos="fade-down").mb-5 La Figura 9 muestra algunos buenos indicadores para analizar.  
+    p(data-aos="fade-down").mb-5 A continuación, se muestran algunos buenos indicadores para analizar:
     .titulo-sexto.color-primario.mb-3(data-aos="fade-right")
-      h5 Figura 9
-      span Indicadores para analizar
+      h5 Figura 2
+      p.mb-0 #[i Indicadores para analizar]
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/72.svg', alt='')  
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/73.png', alt='')      
       .col-lg-7.my-3 
-        p(data-aos="fade-down") Como recomendación, es importante pensar en el análisis de datos al decidir los métodos de revaluación de proveedores. Si la revaluación es capaz de producir algún tipo de datos que puedan ser analizados, entonces cumplirá estos requisitos simultáneamente. De lo contrario, si se decide revaluar a los proveedores mediante una encuesta, hay que idear una forma diferente de analizar los datos de los proveedores, a menos que se puedan sopesar las respuestas de la encuesta y, de alguna manera, ser capaz de saber cómo se desempeñan los proveedores con respecto a un objetivo definido. Si se puede decir que el proveedor A rinde un 90 %, el proveedor B rinde un 80 % y el objetivo para todos los proveedores es el 95 % —en la dimensión que decida—, entonces son datos que se pueden comparar fácilmente y actuar en consecuencia.
+        p(data-aos="fade-down") Como recomendación, es importante pensar en el análisis de datos al decidir los métodos de revaluación de proveedores. Si la revaluación es capaz de producir algún tipo de datos que puedan ser analizados, entonces cumplirá estos requisitos simultáneamente; de lo contrario, si se decide revaluar a los proveedores mediante una encuesta, hay que idear una forma diferente de analizar los datos de los proveedores, a menos que se puedan sopesar las respuestas de la encuesta y, de alguna manera, ser capaz de saber cómo se desempeñan los proveedores con respecto a un objetivo definido. Si se puede decir que el proveedor A rinde un 90 %, el proveedor B rinde un 80 % y el objetivo para todos los proveedores es el 95 % —en la dimensión que decida—, entonces son datos que se pueden comparar fácilmente y actuar en consecuencia.
+
 
         p(data-aos="fade-down") Con una información clara, la toma de decisiones sobre los proveedores será una ventaja para la empresa. Se podrá, entonces, dejar de lado a un proveedor por su bajo rendimiento, ponerlo a prueba o darle más trabajo por su excelente rendimiento.  
 
     .row.justify-content-center.align-items-center
       .col-lg-10.my-3 
         .cajon.color-acento-contenido.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Para un estudio completo del tema, recuerda explorar todos los recursos disponibles en este componente formativo, y que encuentras en el menú principal, tales como material complementario, actividad didáctica y glosario, entre otros.                  
+          p(data-aos="fade-down").mb-0 Para un estudio completo del tema, recuerda explorar todos los recursos disponibles en este componente formativo que encuentras en el menú principal, tales como material complementario, actividad didáctica y glosario, entre otros.
 </template>
 
 <script>

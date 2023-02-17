@@ -15,13 +15,11 @@
                 img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='')
             .col-11
               .p-4.ps-5
-                p(data-aos="fade-down").mb-0 La clasificación de los proveedores se basa en los resultados de la evaluación de su rendimiento y su importancia estratégica; estos son la base para el desarrollo de la cartera de proveedores de una empresa y la gestión de riesgos. Una clasificación objetiva de proveedores ayuda a desarrollar una cartera completa.  
+                p(data-aos="fade-down").mb-0 La clasificación de los proveedores se basa en los resultados de la evaluación de su rendimiento y su importancia estratégica; esta es la base para el desarrollo de la cartera de proveedores de una empresa y la gestión de riesgos. Una clasificación objetiva de proveedores ayuda a desarrollar una cartera completa.
 
-    p(data-aos="fade-down").mb-5 Actualmente, existen muchas fuentes que permiten obtener información para crear la base de datos proveedores, como se ve en la Figura 1. 
+    p(data-aos="fade-down").mb-5 Actualmente, existen muchos recursos que permiten obtener información para crear la base de datos de proveedores, algunas fuentes conocidas para la selección de estos son:
 
-    .titulo-sexto.color-primario.mb-3(data-aos="fade-right")
-      h5 Figura 1
-      span Fuentes para la selección de proveedores 
+
 
     ImagenInfografica.color-acento-botones.mb-5.text-center(data-aos="fade-left")
       template(v-slot:imagen)
@@ -62,7 +60,7 @@
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down") Por ejemplo, si se quiere reducir el tiempo de atención a los clientes, los proveedores que ofrezcan una entrega más rápida tendrán una mejor valoración que los que compiten solo por el precio. 
 
-          p(data-aos="fade-down").mb-0 Otro punto que merece la pena examinar es cuántos proveedores se necesitan en realidad. Comprar a un grupo cuidadosamente seleccionado puede tener una serie de ventajas. 
+          p(data-aos="fade-down").mb-0 Otro punto que vale la pena examinar es cuántos proveedores se necesitan en realidad. Contratar con un grupo cuidadosamente seleccionado puede tener una serie de ventajas.
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.png', alt='') 
 

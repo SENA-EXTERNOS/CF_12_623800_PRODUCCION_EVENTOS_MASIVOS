@@ -24,6 +24,8 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/62.png')})`}"
       )
       .bloque-texto-g__texto.p-4
+        h3 ¿Qué incluye un nivel de servicio?
+        br
         p.mb-0 El acuerdo de nivel de servicio debe incluir no solo una descripción de los servicios que se van a prestar y los niveles esperados, sino también cómo se medirán los servicios, los deberes y responsabilidades de cada parte, las soluciones o sanciones por incumplimiento y un protocolo para añadir y eliminar mediciones. 
           | Las mediciones deben diseñarse de manera que no se recompense el mal comportamiento de ninguna de las partes. Por ejemplo, si se incumple un nivel de servicio porque el cliente no ha facilitado la información a tiempo, el proveedor no debe ser penalizado.   
 
@@ -43,7 +45,7 @@
           .col-md-5
             p Deben incluir definiciones de las normas y métodos de medición, procesos de información, contenido y frecuencia, un proceso de resolución de conflictos, una cláusula de indemnización que proteja al cliente de los litigios de terceros resultantes de los incumplimientos de los niveles de servicio (no obstante, esto ya debería estar contemplado en el contrato), y un mecanismo para actualizar el acuerdo según sea necesario.         
 
-    p(data-aos="fade-down") ¿Qué hay que supervisar? Depende de los servicios que se presten. Hay muchos elementos que pueden supervisarse como parte de un acuerdo de nivel de servicio, pero el esquema debe ser lo más sencillo posible para evitar confusiones y costes excesivos por ambas partes. A la hora de elegir los índices de calidad, se debe examinar la operación y decidir qué es lo más importante. Cuanto más complejo sea el esquema de monitorización (y la solución asociada), tendrá menos probabilidades de ser eficaz, ya que nadie tendrá tiempo para analizar adecuadamente los datos. En caso de duda, lo mejor es optar por la facilidad de recogida de datos, por ejemplo, los sistemas automatizados, ya que es poco probable que la costosa recogida manual de estos sea fiable.
+    p(data-aos="fade-down") #[b ¿Qué hay que supervisar?] Depende de los servicios que se presten, hay muchos elementos que pueden supervisarse como parte de un acuerdo de nivel de servicio, pero el esquema debe ser lo más sencillo posible para evitar confusiones y costes excesivos por ambas partes. A la hora de elegir los índices de calidad, se debe examinar la operación y decidir qué es lo más importante. Cuanto más complejo sea el esquema de monitorización (y la solución asociada), tendrá menos probabilidades de ser eficaz, ya que nadie tendrá tiempo para analizar adecuadamente los datos. En caso de duda, lo mejor es optar por la facilidad de recogida de datos, por ejemplo, los sistemas automatizados, ya que es poco probable que la costosa recogida manual de estos sea fiable.
     p(data-aos="fade-down").mb-5 Dependiendo del servicio, lo que hay que supervisar puede ser:  
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg6")
@@ -52,7 +54,7 @@
           p La cantidad de tiempo que el servicio está disponible para su uso. Se puede medir por franja horaria, por ejemplo: se requiere un 99,5 % de disponibilidad entre las 8 de la mañana y las 6 de la tarde, y se especifica una mayor o menor disponibilidad durante otras horas. Las operaciones de comercio electrónico suelen tener acuerdos para niveles de servicio extremadamente altos en todo momento; un 99,999 % del tiempo de actividad es un requisito frecuente para un sitio que produce millones de pesos por hora. 
         .col-lg-4.my-3
           img.img-a.img-t(src='@/assets/curso/temas/65.png', alt='')
-      .row.justify-content-center.align-items-start(titulo="Índice defectos")
+      .row.justify-content-center.align-items-start(titulo="Índices de defectos")
         .col-lg-7.my-3
           p Recuentos o porcentajes de errores en los principales entregables. Los fallos de producción, como las copias de seguridad y las restauraciones incompletas, los errores de codificación/revisión y el incumplimiento de los plazos pueden incluirse en esta categoría. 
         .col-lg-4.my-3

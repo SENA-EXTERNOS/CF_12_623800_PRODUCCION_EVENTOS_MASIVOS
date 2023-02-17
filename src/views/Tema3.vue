@@ -11,13 +11,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/24.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Contar con buenos proveedores mejora tanto el servicio a los clientes como la eficiencia de la empresa. Una buena relación con un proveedor también puede proporcionar un apoyo empresarial muy necesario y aportar una nueva perspectiva. Al fin y al cabo, si un negocio crece, también lo hará el de los proveedores. Ninguna empresa funciona completamente sola, y si se deja a un proveedor clave fuera de juego, se encontrará varado muy rápidamente. A menudo, la relación con los proveedores se pasa por alto y no se le presta la atención que merece. 
+        p.mb-0 Contar con buenos proveedores mejora tanto el servicio a los clientes como la eficiencia de la empresa. Una buena relación con un proveedor también puede proporcionar un apoyo empresarial muy necesario y aportar una nueva perspectiva. Al fin y al cabo, si un negocio crece, también lo hará el de los proveedores. Ninguna empresa funciona completamente sola y si se deja a un proveedor clave por fuera del juego, se encontrará varada muy rápidamente. A menudo, la relación con los proveedores se pasa por alto y no se le presta la atención que merece.
 
-    p(data-aos="fade-down") A la hora de seleccionar los proveedores se debe tener en cuenta su ética, sus valores, su posicionamiento y su reputación. Además, hay otros aspectos que también son muy importantes, como se ve en la Figura 5. 
-    p(data-aos="fade-down").mb-5 Principios para la relación con proveedores 
-    .titulo-sexto.color-primario.mb-3(data-aos="fade-right")
-      h5 Figura 5
-      span Relación con proveedores
+    p(data-aos="fade-down").mb-4 A la hora de seleccionar los proveedores se debe tener en cuenta su ética, sus valores, su posicionamiento y su reputación. Además, hay otros aspectos que también son muy importantes para la relación con proveedores, como se ve a continuación:
+
 
     .row.justify-content-start.mb-5(data-aos="fade-left")
       .col-lg-9.position-relative
@@ -48,7 +45,7 @@
                 img(src="@/assets/curso/temas/28.png", alt="alt").img100
             .col
               h5 Proporcione información a tiempo
-              p A pesar de la mejor preparación y planificación, pueden producirse errores y falta de comunicación. Es importante abordarlos con su proveedor rápidamente y de manera profesional. Dé siempre a su proveedor la oportunidad de participar en la solución.
+              p A pesar de la mejor preparación y planificación, pueden producirse errores y falta de comunicación. Es importante abordarlos con su proveedor rápidamente y de manera profesional. De siempre a su proveedor la oportunidad de participar en la solución.
 
               p En una buena relación con el proveedor, es esencial hablar cuando algo va mal.
         .crd.crd--avatarHorizontal.crd--med.py-4
@@ -68,7 +65,7 @@
                 img(src="@/assets/curso/temas/30.png", alt="alt").img100
             .col
               h5 Mantenga una comunicación regular
-              p Mantenga el contacto con los proveedores  Reflexionen sobre lo que funciona bien y hablen de los aspectos a mejorar.
+              p Mantenga el contacto con los proveedores. Reflexionen sobre lo que funciona bien y hablen de los aspectos a mejorar.
 
               p Tener la oportunidad de que ambas partes proporcionen información sobre lo que ha sido útil o difícil puede ser la chispa para desarrollar formas innovadoras de fortalecer aún más la relación.                                         
         .crd.crd--avatarHorizontal.crd--last.py-4
@@ -111,7 +108,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/35.png', alt='')   
         .row.justify-content-evenly.align-items-start.p-3
           .col-lg-4.mb-4.mb-md-0
-            p Los proveedores tienen un gran impacto en el éxito de una empresa; desempeñan un papel fundamental en el impulso de los ingresos, lo cual no debe ignorarse nunca. Trabajar con proveedores fiables y de alta calidad contribuye en el crecimiento a gran escala de una empresa. Los proveedores poco fiables pueden crear cuellos de botella en el flujo de trabajo y tener un impacto negativo en la impresión que los clientes tienen de la empresa. Hay varios tipos de proveedores con los que una empresa puede trabajar:
+            p Los proveedores tienen un gran impacto en el éxito de una empresa; desempeñan un papel fundamental en el impulso de los ingresos, lo cual no debe ignorarse nunca. Trabajar con proveedores fiables y de alta calidad contribuye en el crecimiento a gran escala de una empresa. Los proveedores poco fiables pueden crear cuellos de botella en el flujo de trabajo y tener un impacto negativo en la impresión que los clientes tienen de la empresa. Hay varios tipos de proveedores con los que una empresa puede trabajar, entre ellos están: mayoristas y distribuidores, fabricantes y vendedores, importadores.
           .col-lg-5
             img.img-a.img-t(src='@/assets/curso/temas/36.png', alt='')   
         .row.justify-content-evenly.align-items-start.p-3
@@ -167,10 +164,13 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/74.png', alt='')     
       .col-lg-7.my-3 
         p(data-aos="fade-down") Aunque en la actualidad se ponen en práctica estrategias como las vistas anteriormente, en el pasado la satisfacción de los proveedores no fue un tema de gran interés dentro de la gestión de compras, ni desde el punto de vista profesional o académico. Sin embargo, es difícil gestionar con éxito las relaciones comprador-proveedor sin tener en cuenta la satisfacción del proveedor, por lo tanto, el análisis de la satisfacción del proveedor debe tener en cuenta los procesos de interacción dentro de las relaciones comprador-proveedor (por ejemplo, el intercambio de información), así como el ambiente dentro de estas relaciones (como la dependencia de poder).
-        .cajon.color-acento-contenido.p-4.mb-4.text-center(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 El objetivo de este trabajo es explorar la satisfacción del proveedor como factor de la calidad de la relación comprador-proveedor. La satisfacción del proveedor se define como su sentimiento de equidad respecto a los incentivos del comprador, y sus contribuciones dentro de una relación industrial comprador - vendedor. La satisfacción del proveedor, como constructo complejo, se expresa mediante un índice, y sus determinantes se miden a través de una encuesta. 
+        .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
+          p(data-aos="fade-down").mb-0 Es importante reconocer la satisfacción del proveedor como factor de la calidad de la relación comprador-proveedor. La satisfacción del proveedor se define como su sentimiento de equidad respecto a los incentivos del comprador, y sus contribuciones dentro de una relación industrial comprador - vendedor. La satisfacción del proveedor, como constructo complejo, se expresa mediante un índice y sus determinantes se miden a través de una encuesta.
 
-    p(data-aos="fade-down").mb-5 A continuación, se presentan las medidas más útiles para definir la satisfacción del cliente de una empresa.
+    p(data-aos="fade-down") Cuando se logra una relación óptima entre comprador-vendedor, se puede llegar a tener un proceso de venta o servicio exitoso y un cliente satisfecho.
+    p(data-aos="fade-up").mb-0 ¿Cómo saber si un cliente está satisfecho?
+    p(data-aos="fade-left").mt-0 A continuación, se presentan las medidas más útiles para definir la satisfacción del cliente de una empresa.
+
 
     TabsA.color-acento-botones.my-5(data-aos="fade-left")  
       .tarjeta.color-acento-botones--borde.p-4(titulo="Puntuación del <br>promotor neto")

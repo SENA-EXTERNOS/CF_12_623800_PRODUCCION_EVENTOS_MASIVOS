@@ -12,15 +12,15 @@
       .col-lg-7.my-3 
         p(data-aos="fade-down") Una negociación es un método mediante el cual las personas resuelven sus diferencias. Es un proceso en el que se desarrolla un compromiso o un acuerdo, evitando las discusiones y las disputas. En cualquier desacuerdo es comprensible que las personas quieran conseguir el mejor resultado para su posición (o quizás para la organización a la que representan), sin embargo, los principios de equidad, búsqueda del beneficio mutuo y mantenimiento de una relación son las claves de un resultado exitoso.
 
-        p(data-aos="fade-down") Las formas específicas de negociación se utilizan en muchas situaciones: asuntos internacionales, el sistema jurídico, el gobierno, los conflictos laborales o las relaciones domésticas, entre otros. Sin embargo, las habilidades generales de negociación pueden aprenderse y aplicarse en una amplia gama de actividades. Las habilidades en esta área pueden ser de gran utilidad para resolver cualquier diferencia que surja entre dos partes.
+        p(data-aos="fade-down") Los métodos de negociación se utilizan en muchas situaciones: asuntos internacionales, el sistema jurídico, el gobierno, los conflictos laborales o las relaciones domésticas, entre otros. Sin embargo, las habilidades generales que se requieren para la negociación pueden aprenderse y aplicarse en una amplia gama de actividades. Las habilidades en esta área pueden ser de gran utilidad para resolver cualquier diferencia que surja entre dos partes.
 
-        p(data-aos="fade-down") Para lograr un resultado deseable, puede ser útil seguir un enfoque estructurado de la negociación. Por ejemplo, en una situación de trabajo puede ser necesario organizar una reunión en la que participen todas las partes implicadas. Veamos ahora las etapas o fases de una negociación.
+        p(data-aos="fade-down") Para lograr un resultado deseable, puede ser útil seguir un enfoque estructurado de la negociación. Por ejemplo, en una situación de trabajo puede ser necesario organizar una reunión en la que participen todas las partes implicadas, de esa manera se van creando etapas o fases en el proceso de la negociación.
 
-    p(data-aos="fade-down").mb-5 Las etapas en un proceso de negociación, como se muestra en la Figura 2, son:
+    h3(data-aos="fade-left") Etapas en el proceso de negociación
+    
+    p(data-aos="fade-down").mb-5 Las etapas en un proceso de negociación son:
 
-    .titulo-sexto.color-primario.mb-3(data-aos="fade-right")
-      h5 Figura 2
-      span Etapas en un proceso de negociación 
+ 
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/11.svg', alt='')     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.my-3 
@@ -32,31 +32,31 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.my-3 
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Para que la negociación sea efectiva, se deben considerar tres elementos, como se muestra en la Figura 3.  
+          p(data-aos="fade-down").mb-0 Para que la negociación sea efectiva, se deben considerar tres elementos:
 
-    .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
-      h5 Figura 3
-      span Elementos importantes en una negociación
+
     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/13.svg', alt='') 
 
-    p(data-aos="fade-down").my-5 Pero ¿qué son los acuerdos comerciales? Un acuerdo comercial es un convenio vinculante entre las partes, en el que ambas se obligan a realizar determinadas actividades o a abstenerse de hacer algo. Se pueden encontrar en una variedad de tipos de negocios, incluyendo el industrial, el corporativo y el minorista.   
+    h3.mt-5(data-aos="fade-up") Acuerdos comerciales
+    
+    p(data-aos="fade-down").my-5 ¿Qué son los acuerdos comerciales? Un acuerdo comercial es un convenio vinculante entre las partes, en el que ambas se obligan a realizar determinadas actividades o a abstenerse de hacer algo. Se pueden encontrar en una variedad de tipos de negocios, incluyendo el industrial, el corporativo y el minorista.
 
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-6.my-3 
         .color-fondo-text1.bg-color(data-aos="fade-down")
           .color-fondo-text1__texto 
-            p Los acuerdos comerciales pueden ser verbales, por escrito o incluso implícitos de manera formal o informal. Pueden cubrir todos los aspectos del negocio, incluyendo salarios, arrendamientos, préstamos, contratación y seguridad de los empleados. Para incumplir un acuerdo comercial, una de las partes contratantes no cumple su parte del acuerdo. Los acuerdos pueden incluir garantías, y el lenguaje usado es sencillo, aunque repetitivo. Hay formularios estándar que pueden utilizarse de forma continua con proveedores o suministradores. 
+            p Los acuerdos comerciales pueden ser verbales, por escrito o incluso implícitos de manera formal o informal. Pueden cubrir todos los aspectos del negocio, incluyendo salarios, arrendamientos, préstamos, contratación y seguridad de los empleados. Para incumplir un acuerdo comercial, se necesita que una de las partes contratantes no cumpla su parte del acuerdo. Los acuerdos pueden incluir garantías, y el lenguaje usado es sencillo, aunque repetitivo. Hay formularios estándar que pueden utilizarse de forma continua con proveedores o suministradores.
       .col-lg-6.my-3
         .color-fondo-text2.bg-color(data-aos="fade-down")
           .color-fondo-text2__texto 
             p #[b Parámetros de un acuerdo comercial]
               br
-              | La parte inicial de un acuerdo comercial suele ser la que más trabajo requiere, ya que en ella se identifican las partes, se discuten los detalles del acuerdo, incluyendo el producto o servicio que se vende, las fechas y horarios, las opciones de entrega y el precio acordado. Dado que el derecho contractual exige que las partes implicadas entiendan los términos de cualquier acuerdo que celebren, el uso de un lenguaje fácil de entender para un propósito comercial ordinario ayudará a cumplir este requisito. 
+              | La parte inicial de un acuerdo comercial suele ser la que más trabajo requiere, ya que en ella se identifican las partes, se discuten los detalles del acuerdo, incluyendo el producto o servicio que se vende, las fechas y horarios, las opciones de entrega y el precio acordado. Dado que el derecho contractual exige que las partes implicadas entiendan los términos de cualquier acuerdo que celebren, el uso de un lenguaje fácil de entender para un propósito comercial ordinario ayudará a cumplir este requisito.
 
-    p(data-aos="fade-down").mb-5 Básicamente, hay dos elementos clave del acuerdo, como se ve en la Figura 4.
-    .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
-      h5 Figura 4
-      span Elementos de un acuerdo comercial
+    h3(data-aos="fade-right") Elementos de un acuerdo comercial
+    
+    p(data-aos="fade-down").mb-5 Básicamente, hay dos elementos claves en los acuerdos:
+
     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/14.svg', alt='')
 
 
@@ -74,7 +74,7 @@
           .col-lg-8.my-3
             p Debe ser incondicional y absoluta. Además, debe ser aceptada por la persona responsable de cerrar los acuerdos comerciales. 
 
-    p(data-aos="fade-down").mb-5 Veamos, entonces, algunos ejemplos de acuerdos comerciales.
+    p(data-aos="fade-down").mb-5 Algunos ejemplos de acuerdos comerciales son: 
 
     SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5.text-center
       .bg3.p-4.brad.h-100
@@ -98,7 +98,7 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg6")
       .row.justify-content-center.align-items-start(titulo="Acuerdo")
         .col-lg-7.my-3
-          p.mb-0 La principal ventaja de un acuerdo que no cumple los criterios de un contrato es que es intrínsecamente informal. Cuando las partes que acuerdan tienen una relación de larga duración y comparten un grado considerable de confianza, un acuerdo no contractual puede ahorrar tiempo y permitir una mayor flexibilidad en el cumplimiento de las obligaciones acordadas. Los acuerdos que carecen de todos los elementos necesarios de un contrato también pueden ser más viables en situaciones en las que la redacción de un contrato resultaría prohibitiva para las partes implicadas.
+          p.mb-0 La principal ventaja de un acuerdo, que no cumple los criterios de un contrato, es que es intrínsecamente informal. Cuando las partes que acuerdan tienen una relación de larga duración y comparten un grado considerable de confianza, un acuerdo no contractual puede ahorrar tiempo y permitir una mayor flexibilidad en el cumplimiento de las obligaciones acordadas. Los acuerdos, que carecen de todos los elementos necesarios de un contrato, también pueden ser más viables en situaciones en las que la redacción de un contrato resultaría prohibitiva para las partes implicadas.
         .col-lg-4.my-3
           img.img-a.img-t(src='@/assets/curso/temas/22.png', alt='')
       .row.justify-content-center.align-items-start(titulo="Contrato")

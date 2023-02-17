@@ -13,7 +13,7 @@
       .col-lg-7.my-3 
         p(data-aos="fade-down") Estimado aprendiz, en este componente de formación se abordarán los conceptos para tramitar la contratación de proveedores y practicar su revaluación, teniendo en cuenta la aplicación de parámetros técnicos y procedimientos de calidad. Para esto es necesario estudiar la clasificación y las relaciones de las personas o empresas que nos suministran productos o servicios, así como los acuerdos, los términos de negociación y los contratos establecidos con ellos. Además de lo anterior, es importante que las empresas cuenten con la implementación de un sistema de gestión de calidad.
 
-        p(data-aos="fade-down") Le invitamos a ver el siguiente video, con la intención de que tenga una visión completa de lo que será esta experiencia de aprendizaje, y le deseamos éxitos en su desarrollo.   
+        p(data-aos="fade-down") En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/1.png', alt='')  
 

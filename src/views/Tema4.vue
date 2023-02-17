@@ -10,10 +10,10 @@
       .color-fondo-text3__texto 
         p Los contratos comerciales definen y regulan las relaciones comerciales, ya sea un acuerdo laboral estándar u otros más complejos como las fusiones y adquisiciones. El entorno actual, cada vez más litigioso, exige comprender y dominar los principios que rigen los contratos comerciales, saber cómo proteger los intereses y minimizar los pleitos comerciales.
 
-    p(data-aos="fade-down").my-5 Para entender mejor su concepto, la Figura 6 expone algunos de los aspectos del contrato. 
+    p(data-aos="fade-down").my-5 Para entender mejor su concepto, la figura a continuación expone algunos de los aspectos del contrato:
     .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
-      h5 Figura 6
-      span El contrato
+      h5 Figura 1
+      p.mb-0 El contrato
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/49.svg', alt='') 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -30,9 +30,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='')  
 
     p(data-aos="fade-down").mb-5 Dentro de las funciones de un contrato comercial se encuentran:
-    .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
-      h5 Figura 7
-      span Funciones del contrato comercial
+
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/51.svg', alt='')  
 
     .row.justify-content-center.align-items-center.mb-4
@@ -41,7 +39,7 @@
           p(data-aos="fade-down") Los contratos comerciales escritos sirven para documentar exactamente cuáles serán las responsabilidades y obligaciones legales entre las partes involucradas, y lo más importante, relacionan la forma como las partes asignan los riesgos y las recompensas, ya sean financieras o de otro tipo. 
 
           p(data-aos="fade-down").mb-0 Negociar un contrato inadecuadamente, no documentarlo o firmar uno mal redactado puede acarrear serias consecuencias.     
-    p(data-aos="fade-down").mb-5 Entre ellas se encuentran: 
+    p(data-aos="fade-down").mb-5 Entre las consecuencias de un contrato mal diligenciado se encuentran: 
 
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-5
@@ -52,10 +50,8 @@
           p(numero="2" titulo="Paso 2") Imposibilidad de hacer cumplir las obligaciones de la otra parte.
           p(numero="3" titulo="Paso 3") Arriesgarse a sufrir el incumplimiento de las obligaciones legales o reglamentarias (antisoborno, derecho de la competencia, protección de datos), disputas y litigios.
 
-    p(data-aos="fade-down").mb-5 Un contrato puede referirse a cualquier tema sobre el que dos o más partes deban ponerse de acuerdo. A continuación, la Figura 8 indica algunos de los tipos de contratos comerciales de acuerdo con el Código de Comercio.
-    .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
-      h5 Figura 8
-      span Tipos de contrato comercial en Colombia
+    p(data-aos="fade-down").mb-5 Un contrato puede referirse a cualquier tema sobre el que dos o más partes deban ponerse de acuerdo. A continuación, se indican algunos de los tipos de contratos comerciales de acuerdo con el Código de Comercio:
+
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/52.png', alt='') 
 
     p(data-aos="fade-down").mb-5 Cuando se elabora un contrato, independientemente de su tipo, se establecen unas cláusulas que definen de forma clara ciertas condiciones. Te invitamos a ver el siguiente video para conocer algunas de ellas.
@@ -65,23 +61,26 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-    //- p(data-aos="fade-down").mb-5 Para ver algunos ejemplos, te invitamos a descargar y revisar el 
-    //-   span.pur Anexo 1_ Ejemplos contratos.  
-    //- .row.justify-content-center.align-items-center         
-    //-   .col-lg-10
-    //-     .tarjeta.color-acento-botones.p-3
-    //-       .row.justify-content-around.align-items-center
-    //-         .col-3.col-sm-2.col-lg-1
-    //-           img(src="@/assets/curso/temas/54.svg")
-    //-         .col
-    //-           .row.justify-content-between.align-items-center
-    //-             .col.mb-3.mb-sm-0
-    //-               h3.mb-1 Anexo 1
-    //-               p.mb-0 Ejemplos contratos 
-    //-             .col-sm-auto
-    //-               a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Ejemplos_contratos.pdf')" target="_blank")
-    //-                 span Descargar
-    //-                 i.fas.fa-file-download                                      
+    //p(data-aos="fade-down").mb-5 Para ver algunos ejemplos, te invitamos a descargar y revisar el 
+      span.pur Anexo 1_ Ejemplos contratos.  
+    
+    //.row.justify-content-around.align-items-center.mt-4
+      .col-lg-10
+        .tarjeta.color-acento-botones.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/54.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-0 Anexo 1
+                  p.mt-0 Ejemplos contratos
+                .col-sm-auto
+                  a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Ejemplos_contratos.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download    
+
+                                     
 </template>
 
 <script>
