@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Contratación y revaluación de proveedores
-        p.mb-4 Respetado aprendiz, a continuación, encontrarás la descripción de una actividad, en la cual deberás elegir la respuesta adecuada en cada afirmación.
+        p.mb-4 La siguiente actividad didáctica le permitirá comprobar algunos conocimientos adquiridos en el estudio del componente formativo. A continuación, encontrará algunos conceptos, escoja la respuesta adecuada en cada afirmación.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

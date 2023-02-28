@@ -11,7 +11,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.png', alt='')     
       .col-lg-7.my-3 
         p(data-aos="fade-down") La gestión de la calidad es el acto de supervisar todas las actividades y tareas que deben realizarse para mantener el nivel de excelencia deseado. Esto incluye determinar una política de calidad, crear y planificar acciones para garantizarla y, controlar y mejorar la calidad.
-        p.cuadro-color.text-white.p-3 La gestión de la calidad exige que todas las partes interesadas de una empresa colaboren para mejorar los procesos, los productos, los servicios y la cultura de la propia empresa. 
+        
     p(data-aos="fade-down").mb-5 Veamos algunos temas importantes que se deben conocer con respecto a la gestión de calidad:
 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-left")

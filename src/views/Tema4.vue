@@ -13,7 +13,7 @@
     p(data-aos="fade-down").my-5 Para entender mejor su concepto, la figura a continuación expone algunos de los aspectos del contrato:
     .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
       h5 Figura 1
-      p.mb-0 El contrato
+      p.mb-0 #[i El contrato]
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/49.svg', alt='') 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -52,7 +52,7 @@
 
     p(data-aos="fade-down").mb-5 Un contrato puede referirse a cualquier tema sobre el que dos o más partes deban ponerse de acuerdo. A continuación, se indican algunos de los tipos de contratos comerciales de acuerdo con el Código de Comercio:
 
-    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/52.png', alt='') 
+    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/521.png', alt='') 
 
     p(data-aos="fade-down").mb-5 Cuando se elabora un contrato, independientemente de su tipo, se establecen unas cláusulas que definen de forma clara ciertas condiciones. Te invitamos a ver el siguiente video para conocer algunas de ellas.
     .row.justify-content-center.align-items-center.mb-5           

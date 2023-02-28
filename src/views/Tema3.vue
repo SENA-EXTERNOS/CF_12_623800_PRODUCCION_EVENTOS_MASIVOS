@@ -87,7 +87,6 @@
 
         p(data-aos="fade-down") A continuación, se destacan aspectos relevantes en la relación con los proveedores y su importancia. 
 
-    h5(data-aos="fade-down").mb-5 Gestión de la relación con los proveedores y su importancia 
 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")

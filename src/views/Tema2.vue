@@ -79,19 +79,19 @@
     SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5.text-center
       .bg3.p-4.brad.h-100
         img.img-a.img-t.mb-4(src='@/assets/curso/temas/17.png' alt='')
-        p.mb-0 Licencia y franquicia 
+        b.mb-0 Licencia y franquicia 
       .bg3.p-4.brad.h-100
         img.img-a.img-t.mb-4(src='@/assets/curso/temas/18.png' alt='')
-        p.mb-0 Préstamo y financiación  
+        b.mb-0 Préstamo y financiación  
       .bg3.p-4.brad.h-100
         img.img-a.img-t.mb-4(src='@/assets/curso/temas/19.png' alt='')
-        p.mb-0 Suministro de bienes y servicios  
+        b.mb-0 Suministro de bienes y servicios  
       .bg3.p-4.brad.h-100
         img.img-a.img-t.mb-4(src='@/assets/curso/temas/20.png' alt='')
-        p.mb-0 Acuerdos de accionistas y empresas conjuntas  
+        b.mb-0 Acuerdos de accionistas y empresas conjuntas  
       .bg3.p-4.brad.h-100
         img.img-a.img-t.mb-4(src='@/assets/curso/temas/21.png' alt='')
-        p.mb-0 Contratos de trabajo 
+        b.mb-0 Contratos de trabajo 
 
     p(data-aos="fade-down").mb-5 Examinemos ahora las diferencias y beneficios de establecer un “acuerdo” o un “contrato”. Estas son: 
 
