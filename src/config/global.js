@@ -139,14 +139,6 @@ export default {
       tipo: 'Norma',
       link: 'https://www.normas-iso.com/iso-9001/.',
     },
-    {
-      tema: 'Niveles de servicio',
-      referencia:
-        'Delmonte, P. (2020). <i>Acuerdos de nivel de servicio. Un enfoque práctico. Independently Published</i>.',
-      tipo: 'Libro',
-      link:
-        'https://books.google.com.co/books?id=pABgzQEACAAJ&dq=acuerdo+niveles+de+servicio&hl=es-419&sa=X&redir_esc=y',
-    },
   ],
   glosario: [
     {
