@@ -195,7 +195,7 @@
 
             .row.justify-content-evenly.align-items-center
               .col.mb-3.mb-sm-0
-                p #[b Anexo 1] - Encuesta de satisfacción 
+                p #[b Anexo 2] - Encuesta de satisfacción 
               .col-sm-auto
                 a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/Anexo_2_Encuesta_de_satisfaccion.pdf')" target="_blank")
                   span Descargar
